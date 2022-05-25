@@ -1,0 +1,15 @@
+C:\Users\Paws\source\repos\MyFirstProjectSolution\MyFirstProject\bin\Debug\net6.0\MyFirstProject.exe
+C:\Users\Paws\source\repos\MyFirstProjectSolution\MyFirstProject\bin\Debug\net6.0\MyFirstProject.deps.json
+C:\Users\Paws\source\repos\MyFirstProjectSolution\MyFirstProject\bin\Debug\net6.0\MyFirstProject.runtimeconfig.json
+C:\Users\Paws\source\repos\MyFirstProjectSolution\MyFirstProject\bin\Debug\net6.0\MyFirstProject.dll
+C:\Users\Paws\source\repos\MyFirstProjectSolution\MyFirstProject\bin\Debug\net6.0\MyFirstProject.pdb
+C:\Users\Paws\source\repos\MyFirstProjectSolution\MyFirstProject\obj\Debug\net6.0\MyFirstProject.csproj.AssemblyReference.cache
+C:\Users\Paws\source\repos\MyFirstProjectSolution\MyFirstProject\obj\Debug\net6.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paws\source\repos\MyFirstProjectSolution\MyFirstProject\obj\Debug\net6.0\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\Paws\source\repos\MyFirstProjectSolution\MyFirstProject\obj\Debug\net6.0\MyFirstProject.AssemblyInfo.cs
+C:\Users\Paws\source\repos\MyFirstProjectSolution\MyFirstProject\obj\Debug\net6.0\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Paws\source\repos\MyFirstProjectSolution\MyFirstProject\obj\Debug\net6.0\MyFirstProject.dll
+C:\Users\Paws\source\repos\MyFirstProjectSolution\MyFirstProject\obj\Debug\net6.0\refint\MyFirstProject.dll
+C:\Users\Paws\source\repos\MyFirstProjectSolution\MyFirstProject\obj\Debug\net6.0\MyFirstProject.pdb
+C:\Users\Paws\source\repos\MyFirstProjectSolution\MyFirstProject\obj\Debug\net6.0\MyFirstProject.genruntimeconfig.cache
+C:\Users\Paws\source\repos\MyFirstProjectSolution\MyFirstProject\obj\Debug\net6.0\ref\MyFirstProject.dll
